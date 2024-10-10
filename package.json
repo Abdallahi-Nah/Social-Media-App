@@ -1,0 +1,14 @@
+{
+  "name": "final_project_social_media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socialMediaApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
